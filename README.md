@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Idil - @idilm 🙋🏽‍♀️
+- 👋🏽 Hi, I’m Idil - @idilm 🙋🏽‍♀️
 - 👀 I’m interested in learning all things Data Science 👩🏽‍💻
 - 🌱 I’m currently studying as part of a Data Science Bootcamp 💪🏽
 <!---
